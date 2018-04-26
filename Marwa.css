@@ -1,0 +1,18 @@
+p {
+    font-size: 12pt;
+    color: red;
+
+}
+
+.headers {
+    font-size: 36pt;
+    color: yellowgreen;
+}
+
+/* #georgeImage {
+    /* float: right; */
+/* } */ 
+
+#mainText {
+    float: left;
+    width: 50%;}
